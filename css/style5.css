@@ -1,0 +1,41 @@
+.main5 {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(rgba(1, 42, 32, 0.74), rgba(255, 255, 255, 0.8));
+  text-align: center;
+}
+h1 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 50px;
+  color: snow;
+}
+.content5 {
+  margin: 20px;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.proimg {
+  height: 350px;
+  width: 400px;
+}
+.inp {
+  background: black;
+  color: white;
+  overflow: hidden;
+}
+
+.inp1 {
+  width: 20%;
+  margin: 2px;
+  background-color: yellowgreen;
+  color: black;
+  font-weight: bolder;
+}
+
+.inp1:hover {
+  background-color: black;
+  color: yellowgreen;
+}

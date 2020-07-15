@@ -1,0 +1,47 @@
+.he3 {
+  margin-top: 2px;
+}
+.bd3 {
+  font-family: "Comic Neue", cursive;
+  border: 2px solid rgba(94, 96, 100, 0.787);
+  display: inline-block;
+  width: 250px;
+  overflow: hidden;
+  box-shadow: 5px 10px 10px 2px #0644b863;
+  height: 350px;
+  margin: 30px 30px;
+}
+.title3 {
+  border-bottom: 2px solid #109;
+  text-align: center;
+}
+.img3 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+.cover3 {
+  object-fit: cover;
+  height: 150px;
+  width: 100%;
+}
+.content3 {
+  text-align: center;
+}
+.bcn3 {
+  margin-top: 30px;
+  margin-left: 28%;
+}
+.imageDel {
+  height: 200px;
+  width: 200px;
+}
+.delete:hover {
+  background: crimson;
+  cursor: pointer;
+  color: white;
+}
+
+.delete-box {
+  visibility: hidden;
+}

@@ -1,0 +1,27 @@
+body {
+  background-color: rgba(100, 100, 100, 0.4);
+}
+.main4 {
+  background-color: rosybrown;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  box-sizing: content-box;
+  margin-top: -20px;
+}
+.ip3 {
+  background-color: azure;
+  width: 100%;
+  border-radius: 5px;
+}
+.ip4 {
+  border-radius: 20px;
+  width: 100%;
+  margin: 5px;
+  height: 35px;
+}
+.ip5 {
+  width: 100%;
+  height: 8em;
+}

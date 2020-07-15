@@ -1,0 +1,30 @@
+.backp {
+  padding: 5px;
+  height: 90vh !important;
+  width: 100%;
+  background-image: linear-gradient(
+    rgba(235, 162, 219, 0.431),
+    rgba(146, 217, 226, 0.534)
+  );
+  /* z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: scroll;*/
+}
+
+.img-profile {
+  height: 11.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.linq {
+  text-decoration: none !important;
+}
+
+.btns {
+  margin-top: 40px;
+}
